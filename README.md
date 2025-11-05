@@ -20,42 +20,30 @@ I’m a hands-on cybersecurity student with practical experience in penetration 
 
 ---
 
-## 🧰 Skills & Tools
+## 🚀 Current Projects
 
-**Languages:** Python, Bash, basic C/C++ (working knowledge)  
-**Pentesting / Tools:** Burp Suite, Nmap, Wireshark, Metasploit, Burp, SIEM basics  
-**Networking:** TCP/IP, subnetting, Packet Tracer experience (Cisco fundamentals)  
-**Interests:** Web app security, network security, IoT & hardware hacking, CTFs
+<table>
+<tr>
+<td width="50%">
 
----
+### 🔧 ESP32 Hacking Suite
+Building advanced ESP32-based pentesting gadgets for wireless security auditing and IoT exploitation.
 
-## 🔭 Current Focus
-- Hands-on practice with TryHackMe / Hack The Box labs  
-- Building small tooling scripts to streamline recon and reporting  
-- Learning wireless & IoT exploitation techniques  
-- Improving report-writing and mitigation recommendations
+**Tech Stack:** `ESP32` `C++` `Arduino` `Wi-Fi` `BLE`
 
----
+</td>
+<td width="50%">
 
-## 🧩 Projects (examples you can add)
-> Replace these with links to your repos when ready.
+### 🤖 Telegram IoT Bots
+Developing intelligent automation bots for remote IoT control and penetration testing workflows.
 
-- **CTF-Toolkit** — small Python tools for automating recon and flag extraction  
-- **Network-Scan-Reports** — templates and scripts to turn `nmap` output into human-readable reports  
-- **ESP32-Pentest-Tools** — prototype scripts (learning IoT/hardware exploitation)
+**Tech Stack:** `Python` `Telegram API` `IoT Protocols`
 
----
+</td>
+</tr>
+</table>
 
-## 📝 Experience & Education
-- **Cybersecurity Student Trainee** — hands-on labs: TryHackMe, HTB, practical pentests on VMs. :contentReference[oaicite:3]{index=3}  
-- **Cisco / Network basics** — routing, switching, subnetting practice using Packet Tracer. :contentReference[oaicite:4]{index=4}
-
----
-
-## 🎓 Certifications & Badges
-- Add any certificates here (TryHackMe paths, Hack The Box ranks, Cisco course names, webinar attendance, etc.)
-- Example: *Hacker First Move 2025 — Webinar participant.* :contentReference[oaicite:5]{index=5}
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 ## 💻 Tech Arsenal
 
