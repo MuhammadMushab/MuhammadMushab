@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Cybersecurity+Student;Penetration+Testing+Trainee;Learning+Every+Day;CTF+Enthusiast" alt="typing-svg" />
 
-[![Email](https://img.shields.io/badge/Email-mushabmuchu313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushabmuchu313@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mushabmuchu2033%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushabmuchu313@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Mushab-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mushab-moidu-971266375)
 [![Phone](https://img.shields.io/badge/Phone-%2B********69-00A0DC?style=for-the-badge)](tel:+********69)
 
