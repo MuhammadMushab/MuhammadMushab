@@ -57,6 +57,48 @@ I’m a hands-on cybersecurity student with practical experience in penetration 
 - Example: *Hacker First Move 2025 — Webinar participant.* :contentReference[oaicite:5]{index=5}
 
 ---
+## 💻 Tech Arsenal
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,bash,go,rust,js,html,css&theme=dark" />
+</p>
+
+### Cybersecurity & Penetration Testing
+<details>
+<summary><b>🔐 Click to view complete toolkit</b></summary>
+<br>
+
+| Category | Tools |
+|----------|-------|
+| **Network Scanning** | Nmap, Netdiscover, Wireshark, Tcpdump |
+| **Web Application** | Burp Suite, OWASP ZAP, SQLmap, Gobuster, WPScan |
+| **Password Cracking** | John the Ripper, Hashcat, Hydra |
+| **Wireless Security** | Wifite, Bettercap, Ettercap |
+| **Forensics** | Autopsy, Wireshark |
+| **OSINT** | theHarvester, Maltego |
+| **Reverse Engineering** | Ghidra |
+| **Exploitation** | PowerShell, Evil-WinRM |
+
+</details>
+
+### Hardware & IoT
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-0078D4?style=for-the-badge&logo=internet-of-things&logoColor=white" />
+</p>
+
+### Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot_OS-33CCFF?style=for-the-badge&logo=parrot-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
