@@ -131,22 +131,44 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💬 Philosophy
-> "Hacking is learning — understand systems deeply to secure and improve them."
-
----
-
-## 📫 Contact
-- **Email:** mushabmuchu2033@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/muhammad-mushab-moidu-971266375  
-
----
-
-## ⚡ Inspiration
-I modeled the style on a clean, hacker-styled README with badges and a typing banner for a modern portfolio look. :contentReference[oaicite:6]{index=6}
-
----
+## 💡 Philosophy
 
 <div align="center">
-Made with passion, curiosity, and lots of lab time. 🔐🧪
+
+> *"Hacking is not about breaking rules—it's about understanding systems deeply and making them better, more secure, and more innovative."*
+
+### 🛡️ Ethical Hacking Principles
+**Knowledge • Responsibility • Innovation • Security**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### 🤝 Open for Collaboration
+
+I'm always interested in working on:
+- 🔐 Cybersecurity Research Projects
+- 🔧 Hardware Hacking Innovations
+- 🤖 IoT Security Solutions
+- 💻 Open Source Security Tools
+
+**Feel free to reach out for collaborations, discussions, or just to connect!**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammednihalmp&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a516810d-826f-4eb9-82a7-0f35b0049a7c" />
+ From [Muhammednihalmp](https://github.com/Muhammednihalmp) | Made with 0 and 1
+
 </div>
