@@ -58,13 +58,48 @@ I’m a hands-on cybersecurity student with practical experience in penetration 
 
 ---
 
-## 📈 GitHub Stats (optional)
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username to enable these cards.
+## 📊 GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammednihalmp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammednihalmp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammednihalmp&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammednihalmp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 Learning Journey
+
+```mermaid
+graph LR
+    A[Computer Engineering] --> B[Cybersecurity]
+    A --> C[IoT Development]
+    B --> D[Ethical Hacking]
+    B --> E[Hardware Exploitation]
+    C --> F[ESP32 Projects]
+    C --> G[Automation Bots]
+    D --> H[Penetration Testing]
+    E --> H
+    F --> I[All-in-One Hacking Device]
+    G --> I
+    H --> I
+```
+
+### 🌱 Currently Mastering
+- 🔐 Advanced Penetration Testing Techniques
+- 🔧 Hardware Reverse Engineering & Exploitation
+- 🤖 Robotics & Automation Systems
+- 📡 Wireless Communication Protocols
+- 🛡️ Network Security Architecture
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 Philosophy
 > "Hacking is learning — understand systems deeply to secure and improve them."
