@@ -169,6 +169,6 @@ I'm always interested in working on:
 <div align="center">
   
 ### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc30d77b-d4bb-4227-87ed-5102bb50068d" />
- From [Muhammednihalmp](https://github.com/Muhammednihalmp) | Made with 0 and 1
+ From [Muhammad Mushab](https://github.com/Muhammednihalmp) | Made with 0 and 1
 
 </div>
