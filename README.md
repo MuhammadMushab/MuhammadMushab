@@ -18,10 +18,10 @@
 ```python
 class EthicalHacker:
     def __init__(self):
-        self.name = "Muhammed Nihal MP"
-        self.role = "Computer Engineer & Security Researcher"
-        self.education = "Diploma in Computer Engineering"
-        self.institution = "Ma'din College of Engineering, Kerala, India"
+        self.name = "Muhammad Mushab"
+        self.role = "Security Researcher"
+        self.education = "BCA"
+        self.institution = "Yenepoya , Kerala, India"
         self.location = "Kerala, India 🇮🇳"
         
     def current_focus(self):
@@ -29,7 +29,7 @@ class EthicalHacker:
             "ESP32-based Penetration Testing Devices",
             "Telegram Bot Automation for IoT",
             "Wi-Fi & Bluetooth Exploitation Tools",
-            "Hardware Hacking & Reverse Engineering"
+            "Hardware Hacking & cryptography"
         ]
     
     def life_motto(self):
