@@ -13,12 +13,30 @@
 
 ---
 
-## 🚀 About me
-I’m a hands-on cybersecurity student with practical experience in penetration testing, network scanning, and vulnerability assessment. I love CTFs, building tools that automate boring tasks, and learning hardware & wireless exploitation techniques.
+## 🎯 About Me
 
-(Info taken from my resume.) :contentReference[oaicite:2]{index=2}
+```python
+class EthicalHacker:
+    def __init__(self):
+        self.name = "Muhammed Nihal MP"
+        self.role = "Computer Engineer & Security Researcher"
+        self.education = "Diploma in Computer Engineering"
+        self.institution = "Ma'din College of Engineering, Kerala, India"
+        self.location = "Kerala, India 🇮🇳"
+        
+    def current_focus(self):
+        return [
+            "ESP32-based Penetration Testing Devices",
+            "Telegram Bot Automation for IoT",
+            "Wi-Fi & Bluetooth Exploitation Tools",
+            "Hardware Hacking & Reverse Engineering"
+        ]
+    
+    def life_motto(self):
+        return "Understanding systems deeply to make them better"
+```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Current Projects
 
