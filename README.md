@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Email-mushabmuchu313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushabmuchu313@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Mushab-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mushab-moidu-971266375)
-[![Phone](https://img.shields.io/badge/Phone-%2B9745412033-00A0DC?style=for-the-badge)](tel:+********69)
+[![Phone](https://img.shields.io/badge/Phone-%2B********69-00A0DC?style=for-the-badge)](tel:+********69)
 
 </div>
 
