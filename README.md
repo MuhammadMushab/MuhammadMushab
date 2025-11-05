@@ -1,16 +1,27 @@
-## Hi there 👋
+# ██████╗ ██╗███████╗  _Pico Hacker_  — A tiny, powerful cyber toolbox
+> ⚫ A clean, modern, hacking-themed README template for security projects, CTF tools, and pentest demos.
 
-<!--
-**MuhammadMushab/MuhammadMushab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Language](https://img.shields.io/badge/lang-Python%2F-Bash-black.svg)]
+[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)]
+[![Open Issues](https://img.shields.io/github/issues-raw/<USERNAME>/<REPO>.svg)](https://github.com/<USERNAME>/<REPO>/issues)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Project Overview
+**Pico Hacker** is a compact, battle-tested toolkit / demo project focused on penetration-testing helpers, CTF utilities and nice-looking PoC demos. It’s themed for security students and red-team practice: clean layout, clear usage examples, and strong automation.
+
+> Designed to be forked and extended — perfect for portfolios, CTF writeups, and classroom demos.
+
+---
+
+## 🧭 Features
+- Short, focused scripts and utilities (scan, parse, decode, exploit PoC skeletons).
+- Ready-made CTF helpers (flag searchers, decoders, quick recon).
+- Modern README with badges, examples and contributing guidelines.
+- Easy-to-run Docker / venv support.
+- Clean code layout with tests and CI-ready structure.
+
+---
+
+## 🎛️ Demo / Screenshots
