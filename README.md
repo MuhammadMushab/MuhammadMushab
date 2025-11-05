@@ -107,7 +107,7 @@ graph LR
 ---
 
 ## 📫 Contact
-- **Email:** mushabmuchu313@gmail.com  
+- **Email:** mushabmuchu2033@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-mushab-moidu-971266375  
 
 ---
