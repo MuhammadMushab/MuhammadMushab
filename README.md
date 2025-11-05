@@ -79,15 +79,15 @@ I’m a hands-on cybersecurity student with practical experience in penetration 
 
 ```mermaid
 graph LR
-    A[Computer Engineering] --> B[Cybersecurity]
-    A --> C[IoT Development]
+    A[BCA] --> B[Cybersecurity]
+    A --> C[OFFENSO]
     B --> D[Ethical Hacking]
-    B --> E[Hardware Exploitation]
+    B --> E[Nmap]
     C --> F[ESP32 Projects]
-    C --> G[Automation Bots]
+    C --> G[Burp]
     D --> H[Penetration Testing]
     E --> H
-    F --> I[All-in-One Hacking Device]
+    F --> I[All-in-One Hacker]
     G --> I
     H --> I
 ```
