@@ -1,134 +1,88 @@
 <div align="center">
 
-<!-- Minimalist Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=MUHAMMED%20NIHAL%20MP&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
+# 👋 Hi — I'm **Muhammad Mushab Moidu**  
+### 🛡️ Cybersecurity Student · Penetration Tester in training · Bug hunter
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Cybersecurity+Student;Penetration+Testing+Trainee;Learning+Every+Day;CTF+Enthusiast" alt="typing-svg" />
 
-### 🛡️ Security Researcher • Hardware Hacker • IoT Innovator
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadnihalmp955@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nihal-mp-96a346283/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Muhammed_Nihal_MP)
-
-<br>
+[![Email](https://img.shields.io/badge/Email-mushabmuchu313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushabmuchu313@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Mushab-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mushab-moidu-971266375)
+[![Phone](https://img.shields.io/badge/Phone-%2B9745412033-00A0DC?style=for-the-badge)](tel:+9745412033)
 
 </div>
 
 ---
 
-## About
+## 🚀 About me
+I’m a hands-on cybersecurity student with practical experience in penetration testing, network scanning, and vulnerability assessment. I love CTFs, building tools that automate boring tasks, and learning hardware & wireless exploitation techniques.
 
-```python
-class SecurityResearcher:
-    def __init__(self):
-        self.name = "Muhammed Nihal MP"
-        self.role = "Computer Engineer & Ethical Hacker"
-        self.location = "Kerala, India"
-        self.education = "Diploma in Computer Engineering"
-        
-    def current_work(self):
-        return {
-            "focus": [
-                "ESP32 pentesting devices",
-                "Telegram automation bots",
-                "Wireless exploitation tools"
-            ],
-            "learning": [
-                "Advanced ethical hacking",
-                "Hardware exploitation",
-                "Robotics & IoT security"
-            ]
-        }
-```
+(Info taken from my resume.) :contentReference[oaicite:2]{index=2}
 
 ---
 
-## Tech Stack
+## 🧰 Skills & Tools
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-**Security Tools**  
-Nmap • Burp Suite • Metasploit • Wireshark • SQLmap • Hydra • John • Hashcat • Ghidra • Autopsy • Bettercap • Aircrack-ng
-
-**Hardware & IoT**  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
-
-**Systems**  
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Parrot](https://img.shields.io/badge/Parrot_OS-33CCFF?style=flat&logo=parrot-security&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+**Languages:** Python, Bash, basic C/C++ (working knowledge)  
+**Pentesting / Tools:** Burp Suite, Nmap, Wireshark, Metasploit, Burp, SIEM basics  
+**Networking:** TCP/IP, subnetting, Packet Tracer experience (Cisco fundamentals)  
+**Interests:** Web app security, network security, IoT & hardware hacking, CTFs
 
 ---
 
-## Projects
-
-### 🔧 ESP32 Hacker Pro
-Multi-protocol wireless hacking device for Wi-Fi deauth, BLE exploitation, and network reconnaissance  
-`ESP32` `C++` `Wi-Fi` `Bluetooth`
-
-### 🤖 TeleSec Bot
-Telegram automation framework for IoT control and security testing workflows  
-`Python` `Telegram API` `AsyncIO`
-
-### 📡 WirelessNinja
-Comprehensive wireless penetration testing toolkit with automated attack chains  
-`Python` `Scapy` `Bash`
+## 🔭 Current Focus
+- Hands-on practice with TryHackMe / Hack The Box labs  
+- Building small tooling scripts to streamline recon and reporting  
+- Learning wireless & IoT exploitation techniques  
+- Improving report-writing and mitigation recommendations
 
 ---
 
-## GitHub Stats
+## 🧩 Projects (examples you can add)
+> Replace these with links to your repos when ready.
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Muhammednihalmp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Muhammednihalmp&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammednihalmp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8)
-
-</div>
+- **CTF-Toolkit** — small Python tools for automating recon and flag extraction  
+- **Network-Scan-Reports** — templates and scripts to turn `nmap` output into human-readable reports  
+- **ESP32-Pentest-Tools** — prototype scripts (learning IoT/hardware exploitation)
 
 ---
 
-## Philosophy
-
-> *"Ethical hacking is about understanding systems deeply to make them more secure, not about breaking them. Knowledge is power when used responsibly."*
-
-**Core Values:** Security • Innovation • Education • Ethics
+## 📝 Experience & Education
+- **Cybersecurity Student Trainee** — hands-on labs: TryHackMe, HTB, practical pentests on VMs. :contentReference[oaicite:3]{index=3}  
+- **Cisco / Network basics** — routing, switching, subnetting practice using Packet Tracer. :contentReference[oaicite:4]{index=4}
 
 ---
 
-## Connect
+## 🎓 Certifications & Badges
+- Add any certificates here (TryHackMe paths, Hack The Box ranks, Cisco course names, webinar attendance, etc.)
+- Example: *Hacker First Move 2025 — Webinar participant.* :contentReference[oaicite:5]{index=5}
 
-Open for collaboration on:
-- 🔐 Cybersecurity research projects
-- 🔧 Hardware hacking innovations
-- 🤖 IoT security solutions
-- 💻 Open source security tools
+---
 
-**Let's build a more secure digital future together.**
+## 📈 GitHub Stats (optional)
+> Replace `YOUR_GITHUB_USERNAME` with your GitHub username to enable these cards.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 💬 Philosophy
+> "Hacking is learning — understand systems deeply to secure and improve them."
+
+---
+
+## 📫 Contact
+- **Email:** mushabmuchu313@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-mushab-moidu-971266375  
+- **Phone:** +9745412033
+
+---
+
+## ⚡ Inspiration
+I modeled the style on a clean, hacker-styled README with badges and a typing banner for a modern portfolio look. :contentReference[oaicite:6]{index=6}
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Muhammednihalmp&color=00d9ff&style=flat)
-
-<sub>⚡ Built with passion for security • 2025</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+Made with passion, curiosity, and lots of lab time. 🔐🧪
 </div>
