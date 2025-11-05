@@ -74,7 +74,6 @@ I’m a hands-on cybersecurity student with practical experience in penetration 
 ## 📫 Contact
 - **Email:** mushabmuchu313@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-mushab-moidu-971266375  
-- **Phone:** +9745412033
 
 ---
 
