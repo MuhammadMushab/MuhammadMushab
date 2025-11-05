@@ -168,7 +168,7 @@ I'm always interested in working on:
 
 <div align="center">
   
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a516810d-826f-4eb9-82a7-0f35b0049a7c" />
+### <img width="512" height="512" alt="image" src="<a href="https://www.flaticon.com/free-icons/stalking" title="stalking icons">Stalking icons created by Awicon - Flaticon</a>" />
  From [Muhammednihalmp](https://github.com/Muhammednihalmp) | Made with 0 and 1
 
 </div>
